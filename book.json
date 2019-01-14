@@ -1,4 +1,5 @@
 {
+  "root": "./src",
   "plugins": ["nomnoml-md", "graphviz-and-plant-uml"],
   "pluginsConfig": {
     "graphviz-and-plant-uml": {
